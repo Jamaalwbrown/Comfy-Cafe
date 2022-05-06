@@ -630,6 +630,11 @@ input, select, textarea {
 
 	}
 
+	/* extra-link */
+	.extra-link {
+		cursor: pointer;
+	}
+
 /* Container */
 
 	.container {
@@ -2472,7 +2477,7 @@ input, select, textarea {
 		.icon.major {
 			background: #272833;
 			border-radius: 100%;
-			cursor: default;
+			cursor: pointer;
 			display: inline-block;
 			height: 6em;
 			line-height: 5.65em;
